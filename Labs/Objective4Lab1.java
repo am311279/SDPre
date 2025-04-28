@@ -25,5 +25,7 @@ public class Objective4Lab1 {
 		System.out.println("My favourite animal is the " + favouriteAnimal + ".");
 		System.out.println("My favourite food is " + favouriteFood + ".");
 		System.out.println("My favourite song is " + favouriteSong + ".");
+
+		keyboard.close();
 	}
 }

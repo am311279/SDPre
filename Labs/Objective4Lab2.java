@@ -34,5 +34,7 @@ public class Objective4Lab2 {
         //print the three doubles and their sum.
 		double sum2 = dub1+dub2+dub3;
 		System.out.println("The sum of " + dub1 + " + " + dub2 + " + " + dub3 + " = " + sum2);
+
+		keyboard.close();
 	}
 }
